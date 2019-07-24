@@ -1,3 +1,7 @@
+Angular app sports store:
+
+![Home Page](https://user-images.githubusercontent.com/19765747/61810933-62179a80-ae0e-11e9-95e9-35b86f38b23e.png)
+
 # SportsStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
