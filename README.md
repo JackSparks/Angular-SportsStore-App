@@ -1,6 +1,9 @@
-Angular app sports store:
+Sports store app created with angular:
 
 ![Home Page](https://user-images.githubusercontent.com/19765747/61810933-62179a80-ae0e-11e9-95e9-35b86f38b23e.png)
+
+![checkout cart](https://user-images.githubusercontent.com/19765747/61811033-93906600-ae0e-11e9-9f45-4a6fea575587.png)
+
 
 # SportsStore
 
